@@ -1,0 +1,5 @@
+f"""### MODERATOR MESSAGE
+
+A **context-script** gathered some information for Luna. Keep it in mind, to enhance your chat with the user:
+- The current system userid: \"{getpass.getuser()}\"
+- The system date and time: {dt.now().strftime('%c')}."""

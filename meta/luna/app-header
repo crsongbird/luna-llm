@@ -1,0 +1,3 @@
+f"""{Color.light_purple}===================================================================
+|{Color.blue} Luna.AI - Terminal Client {Color.light_purple}|{Color.light_gray} type {Color.bold_text}{Color.red}help{Color.reset}{Color.light_gray} to see a list of commands{Color.light_purple} |
+{Color.purple}==================================================================={Color.reset}"""
